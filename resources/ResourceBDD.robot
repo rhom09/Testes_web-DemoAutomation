@@ -14,7 +14,7 @@ Encerra Sessão
     Close Browser
     
 #### DADO
-que esteja na tela Register
+que esteja na tela de cadastro
     Go To       ${url}/Register.html
 
 #### QUANDO

@@ -7,6 +7,6 @@ Suite Teardown      Encerra Sessão
 
 *** Test Cases ***
 Cenário 01: Fazer o registro com sucesso
-    Dado que esteja na tela Register
+    Dado que esteja na tela de cadastro
     Quando preencho todo o formulario
     Então vejo a mensagem de sucesso 
